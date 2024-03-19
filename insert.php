@@ -25,6 +25,20 @@ if(isset($_POST['submit'])) {
 mysqli_close($dbconnect);
 ?>
 
+<table>
+    <tr>
+        <th>sn</th>
+        <th>Book name</th>
+        <th>Author</th>
+        <th>Publisher</th>
+        <th>Year of Publication</th>
+    </tr>
+</table>
+
+<$php
+
+?>
+
 <html>
     <head></head>
     <body>
